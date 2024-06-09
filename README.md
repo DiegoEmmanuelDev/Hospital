@@ -11,7 +11,7 @@ Os pacientes também precisam de cadastro, contendo dados pessoais (nome, data d
 As consultas também têm sido registradas em planilhas, com data e hora de realização, médico responsável, paciente, valor da consulta ou nome do convênio, com o número da carteira. Também é necessário indicar na consulta qual a especialidade buscada pelo paciente.
 
 Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramento da consulta, ele possa registrar os medicamentos receitados, a quantidade e as instruções de uso. A partir disso, espera-se que o sistema imprima um relatório da receita ao paciente ou permita sua visualização via internet.
-![hospital](https://github.com/DiegoEmmanuelDev/hospital/assets/159559836/92337f27-8a92-45a4-895e-c98bc822c1be)
+![hospital](https://github.com/ErickGabrielDev/hospital/assets/159559836/92337f27-8a92-45a4-895e-c98bc822c1be)
 
 ## O segredo do Hospital 
 Após a primeira versão do projeto de banco de dados para o sistema hospitalar, notou-se a necessidade de expansão das funcionalidades, incluindo alguns requisitos essenciais a essa versão do software. As funcionalidades em questão são para o controle na internação de pacientes. Será necessário expandir o Modelo ER desenvolvido e montar o banco de dados, criando as tabelas para o início dos testes.
