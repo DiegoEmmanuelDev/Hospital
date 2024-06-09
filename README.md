@@ -30,7 +30,7 @@ Cada tipo de quarto tem sua descrição e o seu valor diário (a princípio, o h
 Também é necessário controlar quais profissionais de enfermaria estarão responsáveis por acompanhar o paciente durante sua internação. Para cada enfermeiro(a), é necessário nome, CPF e registro no conselho de enfermagem (CRE).
 
 A internação, obviamente, é vinculada a um paciente – que pode se internar mais de uma vez no hospital – e a um único médico responsável.
-![hospital2](https://github-production-user-asset-6210df.s3.amazonaws.com/159559836/329107677-92337f27-8a92-45a4-895e-c98bc822c1be.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240527%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240527T140816Z&X-Amz-Expires=300&X-Amz-Signature=c87ad8d525ed0a34efd56d100be424bd950290639f9c00dbf0105d115d89e721&X-Amz-SignedHeaders=host&actor_id=161338189&key_id=0&repo_id=798057693)
+![hospital2](https://github.com/ErickGabrielDev/hospital/assets/159559836/92337f27-8a92-45a4-895e-c98bc822c1be)
 
 ## Código SQL
 create database hospital; use hospital;
